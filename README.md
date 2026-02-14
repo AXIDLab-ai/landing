@@ -2,7 +2,7 @@
 
 ## AXID Lab 소개
 
-**AXID Lab**은 **데이터 기반 의사결정(Data-driven Decisions)**과 **현장 중심 혁신(Field-driven Innovation)**을 연구하는 연구실입니다.
+**AXID Lab**은 데이터 기반 의사결정(Data-driven Decisions)과 현장 중심 혁신(Field-driven Innovation)을 연구하는 연구실입니다.
 
 한국공학대학교와 함께 글로벌 산업 AI 분야를 선도하고 있습니다.
 
