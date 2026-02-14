@@ -1,16 +1,79 @@
-## Hi there 👋
+# 강송희 교수 (Professor Dr. Songhee Kang)
 
-<!--
-**dellabee7/dellabee7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AXID Lab 소개
 
-Here are some ideas to get you started:
+**AXID Lab**은 **데이터 기반 의사결정(Data-driven Decisions)**과 **현장 중심 혁신(Field-driven Innovation)**을 연구하는 연구실입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+한국공학대학교와 함께 글로벌 산업 AI 분야를 선도하고 있습니다.
+
+---
+
+## 연구 분야
+
+### 🔬 주요 연구 영역
+
+- **Data-driven Decisions (데이터 기반 의사결정)**
+
+  - 빅데이터 분석을 통한 의사결정 최적화
+  - 인공지능 기반 예측 모델링
+  - 산업 데이터 활용 전략
+- **Field-driven Innovation (현장 중심 혁신)**
+
+  - 현장 문제 해결을 위한 실용적 연구
+  - 산업 현장과 연계된 기술 개발
+  - 실무 중심의 혁신 솔루션
+
+---
+
+## 소속 및 연구 협력
+
+### 🏛️ 한국공학대학교 (Tech University of Korea)
+
+강송희 교수는 **선별된 연구진과 함께** 민첩하고 전문화된 **산학연 협력 플랫폼 개발**을 주도하고 있습니다.
+
+### 🤝 산학연 협력
+
+- 산업계-학계-연구계 간의 긴밀한 협력 네트워크 구축
+- 실무 중심의 연구 프로젝트 수행
+- 글로벌 산업 AI 동향과 연계된 연구 활동
+
+---
+
+## 한국공학대학교 소개
+
+한국공학대학교(TU Korea)는 **산업통상자원부**에서 설립한 특수목적 공학대학으로, 한국의 핵심 제조업과 산업 기반 발전을 목표로 합니다.
+
+### 🎯 대학 특징
+
+- **혁신적인 산학협력 모델** 구현
+- **산업 현장을 변화시키는 연구** 수행
+- **실무 중심의 유능한 인재** 양성
+
+### 📚 교육 철학
+
+대학은 **근면하고 회복력이 있으며**, 자신이 속한 산업을 지속적으로 발전시키는 데 헌신하는 **실무 중심의 유능한 리더**를 양성합니다.
+
+---
+
+## 연락처
+
+### 📧 Contact Information
+
+- **연구실**: AXID Lab
+- **소속**: 한국공학대학교 (Tech University of Korea)
+- **이메일**: [dellabee@tukorea.ac.kr]
+- **연구실 홈페이지**: [https://sites.google.com/view/ax-id]
+
+---
+
+## 연구 성과
+
+### 📈 Recent Achievements
+
+- 글로벌 산업 AI 분야 연구 활동
+- 산학연 협력 플랫폼 개발 및 운영
+- 데이터 기반 의사결정 시스템 구축
+
+---
+
+*최종 업데이트: 2026.2.*
