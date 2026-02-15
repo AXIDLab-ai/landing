@@ -63,7 +63,7 @@
 - **소속**: 한국공학대학교 (Tech University of Korea)
 - **이메일**: [dellabee@tukorea.ac.kr]
 - **연구실 홈페이지**: [https://sites.google.com/view/ax-id]
-
+- **연구실 노션사이트**: [https://axid.notion.site]
 ---
 
 ## 연구 성과
