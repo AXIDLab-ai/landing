@@ -3,7 +3,6 @@
 > 🚀 **AXID Lab**: 데이터 기반 의사결정(Data-driven Decisions) 및 현장 중심 혁신(Field-driven Innovation) 연구
 
 [![Lab Website](https://img.shields.io/badge/Website-AXID%20Lab-blue)](https://sites.google.com/view/ax-id)
-[![Notion](https://img.shields.io/badge/Notion-Research%20Archive-lightgrey)](https://axid.notion.site)
 [![Archive](https://img.shields.io/badge/Archive-MIS%20Lecture-orange)](./lecture/README.md)
 
 ---
@@ -44,7 +43,7 @@
 * **연구실**: AXID Lab (한국공학대학교 경영학부)
 * **이메일**: [dellabee@tukorea.ac.kr](mailto:dellabee@tukorea.ac.kr)
 * **공식 홈페이지**: [AXID Lab Google Site](https://sites.google.com/view/ax-id)
-* **연구 아카이브**: [To Be Announced]
+* **연구 아카이브**: To Be Announced
 * **강의 아카이브**: [AXID Lab Lecture](https://axidlab-ai.github.io/lecture)
 
 ---
