@@ -5,8 +5,8 @@ layout: default
 
 > 🚀 **AXID Lab**: 데이터 기반 의사결정(Data-driven Decisions) 및 현장 중심 혁신(Field-driven Innovation) 연구
 
-[![Lab Website](https://img.shields.io/badge/Website-AXID%20Lab-blue)](https://sites.google.com/view/ax-id)
-[![Archive](https://img.shields.io/badge/Archive-MIS%20Lecture-orange)](https://axidlab-ai.github.io/lecture)
+[![Lab Website](https://img.shields.io/badge/Website-AXID%20Lab-darkgray)](https://sites.google.com/view/ax-id)
+[![Archive](https://img.shields.io/badge/Archive-MIS%20Lecture-gray)](https://axidlab-ai.github.io/lecture)
 
 ---
 
