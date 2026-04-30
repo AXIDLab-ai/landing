@@ -1,4 +1,4 @@
-# 강송희 교수 · Professor Dr. Songhee Kang  
+### 강송희 교수 · Professor Dr. Songhee Kang  
 ### AXID Lab Landing Page
 
 ![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
