@@ -1,5 +1,8 @@
+---
+layout: home
+title: AXID Lab Landing Page
+---
 ### 강송희 교수 · Professor Dr. Songhee Kang  
-### AXID Lab Landing Page
 
 ![AXID Lab](https://img.shields.io/badge/AXID-Lab-00897B?style=for-the-badge)
 ![Data-driven Decisions](https://img.shields.io/badge/Data--driven-Decisions-546E7A?style=for-the-badge)
